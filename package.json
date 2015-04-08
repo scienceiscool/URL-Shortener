@@ -9,7 +9,8 @@
   "author": "Kathy Saad <kathysaad@gmail.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "express": "~4.0",
-    "redis": "~3.0"
+    "express": "4.*",
+    "redis": "*",
+    "jade": "1.*"
   }
 }

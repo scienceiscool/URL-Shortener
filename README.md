@@ -15,5 +15,5 @@ You may implement the application either as
 __Status:__ Under construction. Steps 1 and 4 were successful. Others need work.
 
 __References for views/*.jade:__<br>
-- http://javascriptplayground.com/blog/2012/06/node-express-todo-app-redis/
-- http://technotip.com/3837/forms-using-jade-node-js/
+- <a href="http://javascriptplayground.com/blog/2012/06/node-express-todo-app-redis/">JavaScript Playground > Node and Express Todo App: Redis</a>
+- <a href="http://technotip.com/3837/forms-using-jade-node-js/">Techno Tip > Forms Using Jade: Node.js</a>

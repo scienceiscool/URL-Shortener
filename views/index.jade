@@ -3,9 +3,8 @@ html(lang="en")
   head
     title="URL Shortener"
   body
-    h2 URL shortener at your service :)
-    form(method="POST", action="/")
-      input(type="hidden", name="_method", value="PUT")
-      p URL
-        input(type="text", name="url")
+    h2 URL shortener at your service
+    form(method="POST", action="/urlconverted")
+      p
+        input(type="text", placeholder="Enter URL", name="url")
         input(type="submit")
